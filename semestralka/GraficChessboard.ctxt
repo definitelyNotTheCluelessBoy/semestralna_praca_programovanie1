@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=GraficChessboard
+comment0.text=\r\n\ Grafick\u00E1\ interpret\u00E1cia\ \u0161achovnice.\ Odohr\u00E1va\ sa\ tu\ v\u0161etko\ grafick\u00E9\ vykres\u013Eovanie\ a\ prekres\u013Eovanie.\r\n\ \r\n\ @author\ Mat\u00FA\u0161\ K\u00E1n\ \r\n
+comment1.params=size
+comment1.target=GraficChessboard(int)
+comment1.text=\r\n\ Vytvor\u00FD\ \u0161achovnicu\ z\ pol\u00ED\u010Dok\ tipu\ TileWithQueen.\r\n\ @param\ size\ Ve\u013Ekos\u0165\ \u0161achovnice.\r\n
+comment2.params=
+comment2.target=TileWithQueen[][]\ getTilesWithQueens()
+comment2.text=\r\n\ @return\ Vr\u00E1ti\ \u0161achovnicu\ vo\ forme\ dvojrozmern\u00E9ho\ po\u013Ea\ pol\u00ED\u010Dok\ tipu\ TileWithQueen.\r\n
+comment3.params=
+comment3.target=void\ hideAllQueens()
+comment3.text=\r\n\ Prejde\ cel\u00FA\ \u0161achovnicu\ a\ ka\u017Ed\u00E9mu\ pol\u00ED\u010Dku\ povie\ nech\ skr\u00FDje\ d\u00E1mu.\r\n
+numComments=4

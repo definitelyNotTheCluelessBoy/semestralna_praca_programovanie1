@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=TileWithQueen
+comment0.text=\r\n\ Vymodeluje\ pol\u00ED\u010Dko\ s\ d\u00E1mou.\r\n\ \r\n\ @author\ Mat\u00FA\u0161\ K\u00E1n\r\n
+comment1.params=x\ y\ color
+comment1.target=TileWithQueen(int,\ int,\ java.lang.String)
+comment1.text=\r\n\ Vymodeluje\ pol\u00ED\u010Dko\ a\ postav\u00ED\ na\u0148\ nevidite\u013En\u00FA\ kr\u00E1lovnu.\r\n\ @param\ x\ X-ov\u00E1\ s\u00FAradnica\ na\ ktorej\ pol\u00ED\u010Dko\ vznikne.\r\n\ @param\ y\ Y-ov\u00E1\ s\u00FAradnica\ na\ ktorej\ pol\u00ED\u010Dko\ vznikne.\r\n\ @param\ color\ Farba\ pol\u00ED\u010Dka.\r\n
+comment2.params=
+comment2.target=void\ showQueen()
+comment2.text=\r\n\ Zobraz\u00ED\ d\u00E1mu.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getColor()
+comment3.text=\r\n\ @return\ Vr\u00E1ti\ farbu\ pol\u00ED\u010Dka.\r\n
+comment4.params=
+comment4.target=void\ hideQueen()
+comment4.text=\r\n\ Skryje\ d\u00E1mu.\r\n
+comment5.params=color
+comment5.target=void\ changeColor(java.lang.String)
+comment5.text=\r\n\ Zmen\u00ED\ farbu\ pol\u00ED\u010Dka.\r\n
+numComments=6

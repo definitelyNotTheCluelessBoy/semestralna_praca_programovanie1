@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=FileTool
+comment0.text=\r\n\ N\u00E1stroj\ na\ pr\u00E1cu\ so\ s\u00FAbomy.\ Ich\ \u010D\u00EDtanie\ a\ zapisovanie\ do\ nich.\r\n\ \r\n\ @author\ Mat\u00FA\u0161\ K\u00E1n\r\n
+comment1.params=path\ chessboardSize
+comment1.target=FileTool(java.lang.String,\ int)
+comment1.text=\r\n\ Kon\u0161trukto\ inicializuje\ atrib\u00FAty\ a\ vytvor\u00FD\ zlo\u017Eku\ kde\ ulo\u017E\u00ED\ v\u0161etky\ rie\u0161enia.\r\n\ \r\n\ @param\ path\ Je\ to\ absol\u00FAtna\ cesta\ k\ zlo\u017Eke\ v\ ktorej\ sa\ vytvor\u00ED\ nov\u00E1\ zlo\u017Eka\ s\ rie\u0161eniami.\r\n\ @param\ chessboardSize\ Je\ ve\u013Ekos\u0165\ \u0161achovnice.\ Sl\u00FA\u017E\u00ED\ na\ to\ aby\ n\u00E1stroj\ vedel\ v\ akom\ rozmedz\u00ED\ m\u00E1\ zapisova\u0165\ d\u00E1ta.\r\n
+comment2.params=solutionNumber\ solution
+comment2.target=void\ saveSolution(int,\ ChessboardBox[][])
+comment2.text=\r\n\ Met\u00F3da\ ktor\u00E1\ ulo\u017E\u00ED\ v\u0161etky\ rie\u0161enia.\r\n\ @param\ solutionNumber\ Poradov\u00E9\ \u010D\u00EDslo\ rie\u0161enia.\r\n\ @param\ solution\ Rie\u0161enie\ v\ forme\ dvojrozmern\u00E9ho\ po\u013Ea.\r\n
+comment3.params=solutionNumber
+comment3.target=java.util.ArrayList\ readSolution(int)
+comment3.text=\r\n\ Met\u00F3da\ ktor\u00E1\ vr\u00E1ti\ konkr\u00E9tne\ po\u017Eadovan\u00E9\ rie\u0161enie.\r\n\ @param\ solutionNumber\ Poradov\u00E9\ \u010D\u00EDslo\ rie\u0161enia.\r\n\ @return\ Dvojrozmern\u00FD\ ArrayList\ ktor\u00FD\ sl\u00FA\u017E\u00ED\ ako\ s\u00FAradnicov\u00E1\ mapa\ pre\ proces\ vykreslovania.\r\n
+comment4.params=numberOfSolutions
+comment4.target=void\ deleteFiles(int)
+comment4.text=\r\n\ Met\u00F3da\ ktor\u00E1\ zma\u017Ee\ v\u0161etky\ rie\u0161enia\ a\ n\u00E1sledne\ vyma\u017Ee\ aj\ zlo\u017Eku\ kde\ boli\ ulo\u017Een\u00E9.\r\n\ @param\ numberOfSolutions\ po\u010Det\ rie\u0161en\u00ED\ ktor\u00E9\ ma\ vymaza\u0165.\r\n
+comment5.params=
+comment5.target=void\ deleteFolder()
+comment5.text=\r\n\ Met\u00F3da\ ktor\u00E1\ zma\u017Ee\ zlo\u017Eku\ kde\ boli\ ulo\u017Een\u00E9\ rie\u0161enia.\r\n
+numComments=6

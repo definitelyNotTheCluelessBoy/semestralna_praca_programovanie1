@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Inspector
+comment0.text=\r\n\ N\u00E1stroj\ na\ overenie\ bezpe\u010Dnosti\ (je\ na\u0148\ mo\u017Ene\ polo\u017Ei\u0165\ d\u00E1mu)\ pol\u00ED\u010Dka.\r\n\ \r\n\ @author\ M\u00E1t\u00FA\u0161\ K\u00E1n\r\n
+comment1.params=chessboardSize
+comment1.target=Inspector(int)
+comment1.text=\r\n\ Inicializuje\ parameter\ ktor\u00FD\ si\ pam\u00E4t\u00E1\ rozmer\ \u0161achovnice.\r\n\ @param\ chessboardSize\ Rozmer\ \u0161achovnice.\r\n
+comment2.params=chessboard\ line\ column
+comment2.target=boolean\ isBoxUnderThreat(ChessboardBox[][],\ int,\ int)
+comment2.text=\r\n\ Preh\u013Ead\u00E1\ cel\u00FA\ \u0161achovnicu\ a\ zist\u00ED\ \u010Di\ je\ pol\u00ED\u010Dko\ v\ bezpe\u010D\u00ED\ alebo\ je\ ohrozen\u00E1.\r\n\ @param\ chessborad\ \u0160achovnica\ s\ aktu\u00E1lnym\ umiestnen\u00EDm\ d\u00E1m.\r\n\ @param\ line\ Riadok\ v\ ktorom\ s\ nach\u00E1dza\ pol\u00ED\u010Dko\ ktor\u00E9ho\ bezpe\u010Dnos\u0165\ chceme\ overi\u0165.\r\n\ @param\ column\ St\u013Apec\ v\ ktorom\ s\ nach\u00E1dza\ pol\u00ED\u010Dko\ ktor\u00E9ho\ bezpe\u010Dnos\u0165\ chceme\ overi\u0165.\r\n\ @return\ Vr\u00E1ti\ \u010Di\ je\ pol\u00ED\u010Dko\ ohroz\u00E9n\u00E9\ alebo\ nie.\r\n
+comment3.params=chessboard\ line
+comment3.target=boolean\ searchThroughLine(ChessboardBox[][],\ int)
+comment3.text=\r\n\ Preh\u013Ead\u00E1vane\ po\ riadku.\r\n\ @param\ chessborad\ \u0160achovnica\ s\ aktu\u00E1lnym\ umiestnen\u00EDm\ d\u00E1m.\r\n\ @param\ line\ Riadok\ v\ ktorom\ s\ nach\u00E1dza\ pol\u00ED\u010Dko\ ktor\u00E9ho\ bezpe\u010Dnos\u0165\ chceme\ overi\u0165.\r\n\ @return\ Vr\u00E1ti\ \u010Di\ je\ pol\u00ED\u010Dko\ ohroz\u00E9n\u00E9\ alebo\ nie.\r\n
+comment4.params=chessboard\ column
+comment4.target=boolean\ searchThroughColumn(ChessboardBox[][],\ int)
+comment4.text=\r\n\ Preh\u013Ead\u00E1vanie\ st\u013Apca.\r\n\ @param\ chessborad\ \u0160achovnica\ s\ aktu\u00E1lnym\ umiestnen\u00EDm\ d\u00E1m.\r\n\ @param\ column\ St\u013Apec\ v\ ktorom\ s\ nach\u00E1dza\ pol\u00ED\u010Dko\ ktor\u00E9ho\ bezpe\u010Dnos\u0165\ chceme\ overi\u0165.\r\n\ @return\ Vr\u00E1ti\ \u010Di\ je\ pol\u00ED\u010Dko\ ohroz\u00E9n\u00E9\ alebo\ nie.\r\n
+comment5.params=chessboard\ line\ column
+comment5.target=boolean\ searchThroughDiagonal(ChessboardBox[][],\ int,\ int)
+comment5.text=\r\n\ Preh\u013Ead\u00E1vanie\ diagon\u00E1li.\r\n\ @param\ chessborad\ \u0160achovnica\ s\ aktu\u00E1lnym\ umiestnen\u00EDm\ d\u00E1m.\r\n\ @param\ line\ Riadok\ v\ ktorom\ s\ nach\u00E1dza\ pol\u00ED\u010Dko\ ktor\u00E9ho\ bezpe\u010Dnos\u0165\ chceme\ overi\u0165.\r\n\ @param\ column\ St\u013Apec\ v\ ktorom\ s\ nach\u00E1dza\ pol\u00ED\u010Dko\ ktor\u00E9ho\ bezpe\u010Dnos\u0165\ chceme\ overi\u0165.\r\n\ @return\ Vr\u00E1ti\ \u010Di\ je\ pol\u00ED\u010Dko\ ohroz\u00E9n\u00E9\ alebo\ nie.\r\n
+comment6.params=chessboard\ line\ column
+comment6.target=boolean\ searchThroughReverseDiagonal(ChessboardBox[][],\ int,\ int)
+comment6.text=\r\n\ Preh\u013Ead\u00E1vanie\ opa\u010Dnej\ diagon\u00E1li.\r\n\ @param\ chessborad\ \u0160achovnica\ s\ aktu\u00E1lnym\ umiestnen\u00EDm\ d\u00E1m.\r\n\ @param\ line\ Riadok\ v\ ktorom\ s\ nach\u00E1dza\ pol\u00ED\u010Dko\ ktor\u00E9ho\ bezpe\u010Dnos\u0165\ chceme\ overi\u0165.\r\n\ @param\ column\ St\u013Apec\ v\ ktorom\ s\ nach\u00E1dza\ pol\u00ED\u010Dko\ ktor\u00E9ho\ bezpe\u010Dnos\u0165\ chceme\ overi\u0165.\r\n\ @return\ Vr\u00E1ti\ \u010Di\ je\ pol\u00ED\u010Dko\ ohroz\u00E9n\u00E9\ alebo\ nie.\r\n
+numComments=7

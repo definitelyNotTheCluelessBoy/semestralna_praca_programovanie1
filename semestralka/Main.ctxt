@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\r\n\ Sp\u00FA\u0161\u0165acia\ trieda\ pre\ sp\u00FA\u0161\u0165aciu\ met\u00F3du\ main().\r\n\ \r\n\ @author\ Mat\u00FA\u0161\ K\u00E1n\r\n
+comment1.params=
+comment1.target=Main()
+comment1.text=\r\n\ Pr\u00E1zdn\u00FD\ kon\u0161truktor.\r\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment2.text=\r\n\ Hlavn\u00E1\ met\u00F3da\ ktor\u00E1\ riad\u00ED\ chod\ programu.\r\n
+numComments=3

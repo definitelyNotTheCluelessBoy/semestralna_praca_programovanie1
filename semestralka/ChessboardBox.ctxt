@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ChessboardBox
+comment0.text=\r\n\ Z\u00E1kladn\u00E1\ stavebn\u00E1\ \u010Dastica\ \u0161achovnice.\ Pam\u00E4t\u00E1\ si\ \u010Di\ na\ nej\ je\ alebo\ nieje\ d\u00E1ma\ a\ ak\u00E9\ m\u00E1\ s\u00FAradnice.\r\n\ \r\n\ @author\ Mat\u00FA\u0161\ K\u00E1n\ \r\n
+comment1.params=locatedInLine\ locatedInColumn
+comment1.target=ChessboardBox(int,\ int)
+comment1.text=\r\n\ Inicializ\u00E1cia\ pol\u00ED\u010Dka.\ V\ z\u00E1klade\ je\ pol\u00ED\u010Dko\ pr\u00E1zdne\ (bez\ d\u00E1my).\r\n\ @param\ locatedInLine\ Riadok\ v\ ktorom\ sa\ pol\u00ED\u010Dko\ nach\u00E1dza.\r\n\ @param\ locatedInColumn\ St\u013Apec\ v\ ktorom\ sa\ pol\u00ED\u010Dko\ nach\u00E1dza.\r\n
+comment2.params=
+comment2.target=void\ placeQueen()
+comment2.text=\r\n\ Nastav\u00FD\ pol\u00ED\u010Dku\ d\u00E1mu.\r\n
+comment3.params=
+comment3.target=void\ removeQueen()
+comment3.text=\r\n\ Odstr\u00E1ni\ z\ pol\u00ED\u010Dka\ d\u00E1mu.\r\n
+comment4.params=
+comment4.target=boolean\ hasQueen()
+comment4.text=\r\n\ @return\ Vr\u00E1ti\ \u010Di\ pol\u00ED\u010Dko\ m\u00E1\ alebo\ nem\u00E1\ na\ sebe\ polo\u017Een\u00FA\ d\u00E1mu.\r\n
+comment5.params=
+comment5.target=int[]\ giveCoordinatesOfBox()
+comment5.text=\r\n\ Met\u00F3da\ ktor\u00E1\ vracia\ s\u00FAradnice\ pol\u00ED\u010Dka.\r\n\ \r\n\ @return\ Vr\u00E1ti\ pole\ tipu\ int\ ktor\u00E9\ m\u00E1\ na\ prvej\ poz\u00EDci\u00ED\ X-ov\u00FA\ s\u00FAradnicu\ a\ na\ druhej\ poz\u00EDci\u00ED\ Y-ov\u00FA\ s\u00FAradnicu.\r\n
+numComments=6
